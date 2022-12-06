@@ -65,8 +65,8 @@ const About = () => {
           <div className="edrea_tm_about">
             <div className="left">
               <div className="image">
-                <img src="public/img/about/1.jpeg" alt="" />
-                <div className="main" data-img-url="img/about/1.jpeg" />
+                <img src="public/img/about/1.jpg" alt="" />
+                <div className="main" data-img-url="img/about/1.jpg" />
               </div>
             </div>
             <div className="right">
