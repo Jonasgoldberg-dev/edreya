@@ -24,12 +24,12 @@ const Header = () => {
             </li>
             <li className={activeNav("about")}>
               <a href="#about" onClick={() => changeNav("about")}>
-                About
+                Om
               </a>
             </li>
             <li className={activeNav("portfolio")}>
               <a href="#portfolio" onClick={() => changeNav("portfolio")}>
-                Portfolio
+                Portefølje
               </a>
             </li>
             <li className={activeNav("news")}>
