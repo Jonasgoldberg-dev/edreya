@@ -17,9 +17,7 @@ const MobileHeader = () => {
       <div className="edrea_tm_topbar">
         <div className="topbar_inner">
           <div className="logo">
-            <a href="#">
-              <img src="img/logo/logo.png" alt="" />
-            </a>
+            <p>J. Goldberg Consult</p>
           </div>
           <div className="trigger">
             <div
