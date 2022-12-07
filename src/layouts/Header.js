@@ -11,9 +11,7 @@ const Header = () => {
     <div className="edrea_tm_header">
       <div className="header_inner">
         <div className="logo">
-          <a href="#" onClick={() => changeNav("home")}>
-            <img src="img/logo/logo.png" alt="" />
-          </a>
+          <p>J. Goldberg Consult</p>
         </div>
         <div className="menu">
           <ul className="transition_link">
