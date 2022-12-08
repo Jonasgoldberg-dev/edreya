@@ -114,12 +114,16 @@ h6 {
   float: left;
   position: relative;
 }
+
+
 .edrea_tm_all_wrap,
 .edrea_tm_all_wrap * {
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
   box-sizing: border-box; /* Opera/IE 8+ */
 }
+
+
 #preloader {
   position: fixed;
   left: 0;
@@ -1382,8 +1386,10 @@ h6 {
 }
 .edrea_tm_portfolio .portfolio_list .image img {
   position: relative;
-  min-width: 100%;
+  width: 100%;
   opacity: 0;
+  height: 500px;
+  
 }
 .edrea_tm_portfolio .portfolio_list .image .main {
   position: absolute;
@@ -1497,10 +1503,12 @@ h6 {
 .edrea_tm_swiper_progress .my_navigation {
   position: relative;
   left: 6px;
+  
 }
 .edrea_tm_swiper_progress .my_navigation ul {
   margin: 0px;
   list-style-type: none;
+  
 }
 .edrea_tm_swiper_progress .my_navigation ul li {
   margin: 0px 10px 0px 0px;

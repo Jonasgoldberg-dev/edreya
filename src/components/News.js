@@ -81,8 +81,16 @@ const News = () => {
           <div className="edrea_tm_news swiper-section">
             <div className="edrea_tm_main_title">
               <h3>
-                Latest <span className="coloring">News</span>
+                Services jeg <span className="coloring">Tilbyder</span>
+              
               </h3>
+              <p>
+                Jeg tilbyder en lang række services, som kan kombineres eller ydes hver for sig, men alle med samme formål: vækst. 
+
+Vil du have tilpasset dine marketing kanaler, optimeret din hjemmeside eller ønsker du hjælp til automatisering af den daglige drift? 
+
+Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
+                </p>
             </div>
             <div className="news_list">
               <Swiper {...newsSlider} className="swiper-container">
@@ -142,9 +150,21 @@ const News = () => {
                 </div>
               </Swiper>
             </div>
+            <div>
+              <h3 style={{paddingtop: "40px"}}>
+              Fra idé til resultat
+              </h3>
+                <p>
+                 Det er meget vigtigt for mig, at mit arbejde er til stor gavn for dig, og at din investering bærer frugt, så vi kan have en langvarigt og sundt samarbejde.
+                 Hvis du har en udfordring, idé eller noget helt andet, som du har brug for hjælp til, så tøv ikke med at tage fat i mig. 
+                Vi kan tage en snak om det, og i fællesskab snakke om en potentiel løsning.
+                </p>
+            </div>
           </div>
         </div>
+        
       </div>
+      
     </Fragment>
   );
 };

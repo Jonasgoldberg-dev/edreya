@@ -32,7 +32,7 @@ const Header = () => {
             </li>
             <li className={activeNav("news")}>
               <a href="#news" onClick={() => changeNav("news")}>
-                News
+                Services
               </a>
             </li>
             <li className={activeNav("contact")}>

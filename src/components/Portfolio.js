@@ -13,7 +13,7 @@ const Portfolio = () => {
           <div className="edrea_tm_portfolio swiper-section">
             <div className="edrea_tm_main_title">
               <h3>
-                Creative <span className="coloring">Portfolio</span>
+                Udvalgt <span className="coloring">Arbejde</span>
               </h3>
             </div>
             <div className="portfolio_list gallery_zoom">
@@ -22,116 +22,89 @@ const Portfolio = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="list_inner">
                       <div className="image">
-                        <img src="img/thumbs/1-1.jpg" alt="" />
+                        <img src="img/portfolio/skinbjerg.jpg" alt="Skinbjerg Design" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/1.jpg"
+                          data-img-url="img/portfolio/skinbjerg.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Sweet Fruit</h3>
-                        <span>Vimeo</span>
+                        <a href="https://www.skinbjergdesign.dk" target="_blank" rel="noreferrer">
+                        <h3>B2B Webshop</h3>
+                        <span>Skinbjerg Design</span>
+                        </a>
                       </div>
-                      <a
-                        className="edrea_tm_full_link popup-vimeo"
-                        href="//player.vimeo.com/video/337293658?autoplay=1"
-                      />
+                    
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="list_inner">
                       <div className="image">
-                        <img src="img/thumbs/1-1.jpg" alt="" />
+                        <img src="img/portfolio/kurvemageren.jpg" alt="Kurvemageren" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/2.jpg"
+                          data-img-url="img/portfolio/kurvemageren.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Good Present</h3>
-                        <span>Youtube</span>
+                      <a href="https://www.kurvemageren.dk" target="_blank" rel="noreferrer">
+                        <h3>B2C Webshop</h3>
+                        <span>Kurvemageren</span>
+                        </a>
                       </div>
-                      <a
-                        className="edrea_tm_full_link popup-youtube"
-                        href="//www.youtube.com/embed/7e90gBu4pas?autoplay=1"
-                      />
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="list_inner">
                       <div className="image">
-                        <img src="img/thumbs/1-1.jpg" alt="" />
+                        <img src="img/portfolio/goldbergsound.jpg" alt="Goldberg Sound" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/3.jpg"
+                          data-img-url="img/portfolio/goldbergsound.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Mockup Cream</h3>
-                        <span>Soundcloud</span>
+                        <a href="https://www.goldbergsound.dk" target="_blank" rel="noreferrer">
+                        <h3>Promoverende Site</h3>
+                        <span>Goldberg Sound</span>
+                        </a>
                       </div>
-                      <a
-                        className="edrea_tm_full_link soundcloude_link mfp-iframe audio"
-                        href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-                      />
+                      
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="list_inner">
                       <div className="image">
-                        <img src="img/thumbs/1-1.jpg" alt="" />
+                        <img src="img/portfolio/marieskinbjerg.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/4.jpg"
+                          data-img-url="img/portfolio/marieskinbjerg.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Delicious Apple</h3>
-                        <span>Detail</span>
+                      <a href="https://www.marieskinbjerg.dk" target="_blank" rel="noreferrer">
+                        <h3>Promoverende Site</h3>
+                        <span>Marie Skinbjerg</span>
+                        </a>
                       </div>
-                      <a
-                        className="edrea_tm_full_link portfolio_popup"
-                        href="#"
-                        onClick={() => setModal(true)}
-                      />
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="list_inner">
                       <div className="image">
-                        <img src="img/thumbs/1-1.jpg" alt="" />
+                        <img src="img/portfolio/kurvemagerne.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/5.jpg"
+                          data-img-url="img/portfolio/kurvemagerne.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Blue Lemon</h3>
-                        <span>Image</span>
+                      <a href="https://www.kurvemagerne.dk" target="_blank" rel="noreferrer"> 
+                        <h3>Promoverende Site</h3>
+                        <span>Kurvemagerne</span>
+                        </a>
                       </div>
-                      <a
-                        className="edrea_tm_full_link zoom"
-                        href="img/portfolio/5.jpg"
-                      />
-                    </div>
-                  </SwiperSlide>
-                  <SwiperSlide className="swiper-slide">
-                    <div className="list_inner">
-                      <div className="image">
-                        <img src="img/thumbs/1-1.jpg" alt="" />
-                        <div
-                          className="main"
-                          data-img-url="img/portfolio/6.jpg"
-                        />
-                      </div>
-                      <div className="details">
-                        <h3>Sweet Cheery</h3>
-                        <span>Image</span>
-                      </div>
-                      <a
-                        className="edrea_tm_full_link zoom"
-                        href="img/portfolio/6.jpg"
-                      />
+                      
                     </div>
                   </SwiperSlide>
                 </div>
