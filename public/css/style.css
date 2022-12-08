@@ -255,6 +255,7 @@ h6 {
 /*	02) EDREA MOBILE MENU
 /*---------------------------------------------------*/
 
+
 .edrea_tm_topbar {
   position: fixed;
   top: 0px;
@@ -1454,6 +1455,7 @@ h6 {
   justify-content: space-between;
   clear: both;
   margin-top: 32px;
+  padding-bottom: 50px;
 }
 .edrea_tm_swiper_progress .my_pagination_in {
   float: left;
@@ -1660,6 +1662,21 @@ h6 {
 /*---------------------------------------------------*/
 /*	08) EDREA NEWS
 /*---------------------------------------------------*/
+.container_services {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 100px;
+  grid-gap: 20px;
+
+}
+
+.container_image_column {
+  grid-column: 1;
+}
+
+.container_text_column {
+  grid-column: 2;
+}
 
 .edrea_tm_news {
   width: 100%;
@@ -1667,6 +1684,7 @@ h6 {
   clear: both;
   float: left;
 }
+
 .edrea_tm_news .news_list {
   width: 100%;
   height: auto;

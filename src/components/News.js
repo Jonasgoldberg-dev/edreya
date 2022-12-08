@@ -160,6 +160,17 @@ Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
                 Vi kan tage en snak om det, og i fællesskab snakke om en potentiel løsning.
                 </p>
             </div>
+        <div className="container_services">
+          <div className="container_image_column">
+            <img src="https://via.placeholder.com/500" alt="placeholder" />
+          </div>
+          <div className="container_text_column">
+           <h3> Hjemmesider</h3><br></br>
+            <p>Jeg bygger og optimerer hjemmesider, så dine kunder får en så god oplevelse som muligt igennem en eventuel købs process. 
+               Her er en del emner at tage fat i, og vi kan sammen snakke om, hvad der er bedst for dig. <br></br><br></br>
+               Jeg tilbyder også undervisning i diverse redskaber, hvis du ønsker selv at arbejde videre med de features som implementeres.</p>
+        </div>  
+    </div>
           </div>
         </div>
         
