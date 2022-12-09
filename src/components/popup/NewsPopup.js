@@ -17,6 +17,7 @@ const NewsPopup = ({ data, open, close }) => {
           <span>
             <a href="#">{data && data.tag}</a>
           </span>
+          
           <div />
         </div>
         <div className="text">
@@ -24,6 +25,10 @@ const NewsPopup = ({ data, open, close }) => {
         </div>
       </div>
     </Modal>
+    
   );
+  
 };
 export default NewsPopup;
+
+
