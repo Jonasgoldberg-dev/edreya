@@ -5,9 +5,22 @@ import NewsPopup from "./popup/NewsPopup";
 
 const data = [
   {
-    title: "Building brands through customer service",
-    img: "img/news/1.jpg",
-    tag: "Branding",
+    title: "Webudvikling",
+    img: "img/news/web-programming.png",
+    tag: "Læs mere" ,    
+    des: [
+      "Jeg tilbyder et komplet udvalg af webudviklingstjenester, fra tilpassede webdesigns til udvikling af komplekse applikationer.",
+      "Jeg sætter en ære i at levere højkvalitets og brugervenlige hjemmesider, der ikke kun ser flotte ud, men også præsterer godt og opfylder dine mål. Mit mål er at give dig en hjemmeside, som er nem at navigere i, visuelt tiltalende og optimeret til købsflow og søgemaskiner.",
+      "Udover webudviklingtjenester, tilbyder jeg også løbende support og vedligeholdelse for at sikre, at din hjemmeside forbliver opdateret og fungerer problemfrit.",
+      "Hvis du synes det lyder interessant, kan vi tage en helt uforpligtende snak om, hvad der kan lade sig gøre for dig, så vi måske kan få startet et langvarigt samarbejde",
+      "Du kan altid fange mig enten på tlf. eller e-mail",
+    ],
+  },
+  
+  {
+    title: "Marketing",
+    img: "img/news/campaign.png",
+    tag: "Læs mere",
     des: [
       "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
       "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
@@ -15,9 +28,9 @@ const data = [
     ],
   },
   {
-    title: "Unstoppable Jamstack and Gatsby opportunity",
-    img: "img/news/2.jpg",
-    tag: "Design",
+    title: "BrandingI",
+    img: "img/news/contacs.png",
+    tag: "Læs mere",
     des: [
       "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
       "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
@@ -25,9 +38,9 @@ const data = [
     ],
   },
   {
-    title: "Electron framework adds encryption API",
-    img: "img/news/3.jpg",
-    tag: "Media",
+    title: "Automatisering",
+    img: "img/news/settings.png",
+    tag: "Læs mere",
     des: [
       "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
       "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
@@ -35,9 +48,9 @@ const data = [
     ],
   },
   {
-    title: "Sentry for JavaScript monitors release health",
-    img: "img/news/4.jpg",
-    tag: "Technology",
+    title: "Digital Infrastruktur",
+    img: "img/news/bridge.png",
+    tag: "Læs mere",
     des: [
       "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
       "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
@@ -45,19 +58,9 @@ const data = [
     ],
   },
   {
-    title: "Five reasons to begin a Packt subscription",
-    img: "img/news/5.jpg",
-    tag: "Lifestyle",
-    des: [
-      "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
-    ],
-  },
-  {
-    title: "Why developers are so divided over WordPress",
-    img: "img/news/6.jpg",
-    tag: "Modern",
+    title: "Konsulent & Rådgivning",
+    img: "img/news/consultant.png",
+    tag: "Læs mere",
     des: [
       "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
       "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
@@ -160,17 +163,8 @@ Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
                 Vi kan tage en snak om det, og i fællesskab snakke om en potentiel løsning.
                 </p>
             </div>
-        <div className="container_services">
-          <div className="container_image_column">
-            <img src="https://via.placeholder.com/500" alt="placeholder" />
-          </div>
-          <div className="container_text_column">
-           <h3> Hjemmesider</h3><br></br>
-            <p>Jeg bygger og optimerer hjemmesider, så dine kunder får en så god oplevelse som muligt igennem en eventuel købs process. 
-               Her er en del emner at tage fat i, og vi kan sammen snakke om, hvad der er bedst for dig. <br></br><br></br>
-               Jeg tilbyder også undervisning i diverse redskaber, hvis du ønsker selv at arbejde videre med de features som implementeres.</p>
-        </div>  
-    </div>
+        
+    
           </div>
         </div>
         
