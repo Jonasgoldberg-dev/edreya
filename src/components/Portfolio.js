@@ -54,41 +54,7 @@ const Portfolio = () => {
                       </div>
                     </div>
                   </SwiperSlide>
-                  <SwiperSlide className="swiper-slide">
-                    <div className="list_inner">
-                      <div className="image">
-                        <img src="img/portfolio/goldbergsound.jpg" alt="Goldberg Sound" />
-                        <div
-                          className="main"
-                          data-img-url="img/portfolio/goldbergsound.jpg"
-                        />
-                      </div>
-                      <div className="details">
-                        <a href="https://www.goldbergsound.dk" target="_blank" rel="noreferrer">
-                        <h3>Promoverende Site</h3>
-                        <span>Goldberg Sound</span>
-                        </a>
-                      </div>
-                      
-                    </div>
-                  </SwiperSlide>
-                  <SwiperSlide className="swiper-slide">
-                    <div className="list_inner">
-                      <div className="image">
-                        <img src="img/portfolio/marieskinbjerg.jpg" alt="" />
-                        <div
-                          className="main"
-                          data-img-url="img/portfolio/marieskinbjerg.jpg"
-                        />
-                      </div>
-                      <div className="details">
-                      <a href="https://www.marieskinbjerg.dk" target="_blank" rel="noreferrer">
-                        <h3>Promoverende Site</h3>
-                        <span>Marie Skinbjerg</span>
-                        </a>
-                      </div>
-                    </div>
-                  </SwiperSlide>
+                  
                   <SwiperSlide className="swiper-slide">
                     <div className="list_inner">
                       <div className="image">
@@ -137,6 +103,18 @@ const Portfolio = () => {
             </div>
           </div>
         </div>
+        <div className="global_text" style={{ textAlign: 'center' }}>
+  <p style={{
+    backgroundColor: 'rgba(243, 153, 119)',
+    borderRadius: '10px',
+    padding: '5px',
+    color: 'black',
+  }}>
+    <b>E-mail:</b>{' '}
+    <span style={{ marginRight: '10px' }}>hello@jonasgoldberg.dk</span>
+    <b>Tlf.:</b>+45 53354858
+  </p>
+</div>
       </div>
     </Fragment>
   );

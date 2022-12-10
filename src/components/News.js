@@ -22,19 +22,11 @@ const data = [
     img: "img/news/campaign.png",
     tag: "Læs mere",
     des: [
-      "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
-    ],
-  },
-  {
-    title: "BrandingI",
-    img: "img/news/contacs.png",
-    tag: "Læs mere",
-    des: [
-      "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+      "Mine marketing tiltag er altid målrettet og tilpasset dine behov. Jeg tilbyder en bred vifte af marketingtjenester, der kan hjælpe dig med at nå dine mål.",
+      "Jeg har mange års erfaring med markedsføring i en bred vifte af brancher. Vi kommer til at arbejde tæt sammen for at få sat de rette kanaler op, så de kan opfylde dine behov. Om det er brand awareness, øget trafik/salg eller noget helt 3., er jeg klar på at hjælpe.",
+      "Udover marketingtjenester, tilbyder jeg også løbende support og vedligeholdelse for at sikre, at din markedsføring forbliver opdateret og fungerer problemfrit.",
+      "Hvis du synes det lyder interessant, kan vi tage en helt uforpligtende snak om, hvad der kan lade sig gøre for dig, så vi måske kan få startet et langvarigt samarbejde",
+      "Du kan altid fange mig enten på tlf. eller e-mail",
     ],
   },
   {
@@ -42,19 +34,36 @@ const data = [
     img: "img/news/settings.png",
     tag: "Læs mere",
     des: [
-      "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+      "Automatisering har for mig være altafgørende for min succes som iværksætter. Automatisering betyder mange ting - men kan nemt opsummeres. Det handler om løsninger, som skal frigive tid i hverdagen. Digitale løsninger, som eliminerer en del af de manuelle opgaver, som typisk fylder meget.",
+      "Jeg har meget erfaring med implementering af løsninger, som hjælpe med dette. Der er næsten altid en løsning, hvis det omhandler opgaver som bliver gjort online manuelt.",
+      "Her er det vigtigt at jeg får et godt inblik i, hvordan dine specifikke systemer er sat op, så jeg kan udtænke smarte løsninger og implementere dem. Sammen kan vi gøre din hverdag mere effektiv",
+      "Hvis du synes det lyder interessant, kan vi tage en helt uforpligtende snak om, hvad der kan lade sig gøre for dig, så vi måske kan få startet et langvarigt samarbejde",
+      "Du kan altid fange mig enten på tlf. eller e-mail",
     ],
   },
+
+  {
+    title: "Branding",
+    img: "img/news/contacs.png",
+    tag: "Læs mere",
+    des: [
+      "Branding kan være altafgørende for langvarig succes, og det er derfor vigtigt at komme rigtigt i gang med det. Her laver jeg typisk en analyse af din profil, og kommer med idéer til, hvilke tiltag vil hjælpe. Det kan være en bred vifte af tiltag.",
+      "Jeg har mange års erfaring med branding, og har hjulpet mange virksomheder med at få deres brand til at fungere optimalt. Vi kommer til at arbejde tæt sammen for at få sat de rette tiltag op, så de kan opfylde dine behov.",
+      "Hvis du synes det lyder interessant, kan vi tage en helt uforpligtende snak om, hvad der kan lade sig gøre for dig, så vi måske kan få startet et langvarigt samarbejde",
+      "Du kan altid fange mig enten på tlf. eller e-mail",
+    ],
+  },
+
   {
     title: "Digital Infrastruktur",
     img: "img/news/bridge.png",
     tag: "Læs mere",
     des: [
-      "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+      "Digital infrastruktur spænder over en bred vifte af tiltag. Det kan være alt fra regnskab, lager, CRM, salg, marketing, support, hosting, domæner, e-mail, etc.",
+      "Her vil jeg typisk tage et grundigt kig ind i din nuværende infrastruktur og se, om noget kan gøres bedre og mere effektivt.",
+      "Sparring mellem dig og mig er vigtigt her, så vi sammen kan finde frem til de bedste løsninger for dig.",
+      "Hvis du synes det lyder interessant, kan vi tage en helt uforpligtende snak om, hvad der kan lade sig gøre for dig, så vi måske kan få startet et langvarigt samarbejde",
+      "Du kan altid fange mig enten på tlf. eller e-mail",
     ],
   },
   {
@@ -62,9 +71,11 @@ const data = [
     img: "img/news/consultant.png",
     tag: "Læs mere",
     des: [
-      "Oki is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+      "Har du et ønske om at få professionel sparring og rådgivning, så er jeg mere end klar til at træde til. Lad os sammen lægge en plan for hvordan du fremadrettet kan vækste og styrke din virksomhed.",
+      "Her er det vigtigt med en åben dialog om dine udfordringer og ønsker, så jeg kan komme med mine bud på de rette løsninger. ",
+      "Med udgangspunkt i alle de informationer jeg får, udarbejder jeg en grund rapport med idéer til tiltag, og tilbyder naturligvis også at eksekvere dem sammen med dig, skulle det være ønsket.",
+      "Hvis du synes det lyder interessant, kan vi tage en helt uforpligtende snak om, hvad der kan lade sig gøre for dig, så vi måske kan få startet et langvarigt samarbejde",
+      "Du kan altid fange mig enten på tlf. eller e-mail",
     ],
   },
 ];
@@ -167,6 +178,18 @@ Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
     
           </div>
         </div>
+        <div className="global_text" style={{ textAlign: 'center' }}>
+  <p style={{
+    backgroundColor: 'rgba(243, 153, 119)',
+    borderRadius: '10px',
+    padding: '5px',
+    color: 'black',
+  }}>
+    <b>E-mail:</b>{' '}
+    <span style={{ marginRight: '10px' }}>hello@jonasgoldberg.dk</span>
+    <b>Tlf.:</b>+45 53354858
+  </p>
+</div>
         
       </div>
       
