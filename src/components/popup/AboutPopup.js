@@ -121,7 +121,7 @@ const AboutPopup = ({ open, close, aboutData }) => {
               <div className="about_title">
                 <h3>
                   <span>
-                    Programmør  <span className="coloring">Skills</span>
+                    Mine  <span className="coloring">Skills</span>
                   </span>
                 </h3>
               </div>

@@ -6,7 +6,7 @@ const aboutData = {
   firstName: "Jonas",
   lastName: "Goldberg",
   bithday: "01.12.1992",
-  address: "Svansmosen 4, 3200 Helsinge",
+  address: "København",
   phn: "++45 5335 4858",
   email: "hello@jonasgoldberg.dk",
   serviceLists: [
@@ -23,9 +23,12 @@ const aboutData = {
       { name: "JavaScript", value: "80" },
       { name: "React", value: "90" },
       { name: "Vue", value: "70" },
+      { name: "Python", value: "70" },
       { name: "TypeScript", value: "90" },
       { name: "Bootstrap", value: "80" },
       { name: "Tailwind CSS", value: "70" },
+      { name: "Machine Learning", value: "70" },
+      { name: "Shopify", value: "90" },
     ],
     language: [
       { name: "Engelsk", value: "100" },
