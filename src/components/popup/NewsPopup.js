@@ -15,7 +15,7 @@ const NewsPopup = ({ data, open, close }) => {
         <div className="news_main_title">
           <h3>{data && data.title}</h3>
           <span>
-            <a href="#">{data && data.tag}</a>
+            
           </span>
           
           <div />

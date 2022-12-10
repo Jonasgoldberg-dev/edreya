@@ -95,6 +95,18 @@ const About = () => {
             </div>
           </div>
         </div>
+        <div className="global_text" style={{ textAlign: 'center' }}>
+  <p style={{
+    backgroundColor: 'rgba(243, 153, 119)',
+    borderRadius: '10px',
+    padding: '5px',
+    color: 'black',
+  }}>
+    <b>E-mail:</b>{' '}
+    <span style={{ marginRight: '10px' }}>hello@jonasgoldberg</span>
+    <b>Tlf.:</b>+45 53354858
+  </p>
+</div>
       </div>
     </Fragment>
   );

@@ -1389,7 +1389,8 @@ h6 {
   position: relative;
   width: 100%;
   opacity: 0;
-  height: 500px;
+  height: 100%;
+  
   
 }
 .edrea_tm_portfolio .portfolio_list .image .main {
@@ -1720,6 +1721,7 @@ h6 {
   background-size:contain;
   background-position: center;
   transform: scale(1) translateZ(0);
+  margin: 20px;
   
   
 

@@ -47,7 +47,7 @@ const Contact = () => {
         <div className="edrea_tm_contact">
           <div className="edrea_tm_main_title">
             <h3>
-              Get in <span className="coloring">Touch</span>
+              Skriv til <span className="coloring">Mig</span>
             </h3>
           </div>
           <div className="wrapper">
