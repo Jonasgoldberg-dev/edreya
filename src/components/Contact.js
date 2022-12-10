@@ -81,11 +81,21 @@ const Contact = () => {
                 </li>
                 <li>
                   <div className="list_inner">
-                    <i className="icon-facebook-rect" />
+                    <i className="icon-github-2" />
                     <span>
-                      <a href="https://www.facebook.com/jonas.a.goldberg">@JonasGoldberg</a>
+                      <a href="https://github.com/Jonasgoldberg-dev">Github</a>
                     </span>
                   </div>
+                  
+                </li>
+                <li>
+                  <div className="list_inner">
+                    <i className="icon-linkedin-1" />
+                    <span>
+                      <a href="https://www.linkedin.com/in/jonas-goldberg-4a7577103/">LinkedIn</a>
+                    </span>
+                  </div>
+                  
                 </li>
               </ul>
             </div>
