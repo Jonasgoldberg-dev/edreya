@@ -99,71 +99,13 @@ const Contact = () => {
                 </li>
               </ul>
             </div>
-            <div className="right">
-              <div className="fields">
-                <form
-                  className="contact_form"
-                  id="contact_form"
-                  onSubmit={(e) => onSubmit(e)}
-                >
-                  <div
-                    className="returnmessage"
-                    data-success="Din besked er modtaget. Jeg vender hurtigt tilbage"
-                  />
-                  <div
-                    className={error ? "empty_notice" : "returnmessage"}
-                    style={{ display: error == null ? "none" : "block" }}
-                  >
-                    <span>
-                      {error
-                        ? "Venligst udfyld de nødvendige felter"
-                        : "Din besked er modtaget. Jeg vender hurtigt tilbage"}
-                    </span>
-                  </div>
-                  <div className="first">
-                    <ul>
-                      <li>
-                        <div className="list_inner">
-                          <input
-                            id="name"
-                            type="text"
-                            placeholder="Navn"
-                            name="name"
-                            onChange={(e) => onChange(e)}
-                            value={name}
-                          />
-                        </div>
-                      </li>
-                      <li>
-                        <div className="list_inner">
-                          <input
-                            id="email"
-                            type="email"
-                            name="email"
-                            onChange={(e) => onChange(e)}
-                            value={email}
-                            placeholder="Email"
-                            autoComplete="off"
-                          />
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="last">
-                    <textarea
-                      id="message"
-                      placeholder="Besked"
-                      name="message"
-                      onChange={(e) => onChange(e)}
-                      value={message}
-                    />
-                  </div>
-                  <div className="edrea_tm_button">
-                    <input className="a" type="submit" value="Send Besked" />
-                  </div>
-                  {/* If you want change mail address to yours, just open "modal" folder >> contact.php and go to line 4 and change detail to yours.  */}
-                </form>
-              </div>
+            <div>
+            <h4> Jeg ser frem til at høre fra dig</h4>
+            <p style = {{
+              paddingTop:"10px"
+            }}>
+              Lad os tage en åben dialog om, hvordan vi kan<br></br> løse de udfordringer og muligheder du står overfor. <br></br> 
+            </p>
             </div>
           </div>
         </div>

@@ -422,6 +422,7 @@ h6 {
   right: 0px;
   overflow: hidden;
   overflow-y: scroll;
+  
 
   opacity: 0;
   visibility: hidden;
@@ -1840,6 +1841,7 @@ h6 {
   height: auto;
   clear: both;
   float: left;
+  
 }
 .edrea_tm_contact .wrapper {
   width: 100%;
@@ -1848,6 +1850,8 @@ h6 {
   float: left;
   display: flex;
   padding-top: 60px;
+  
+  
 }
 .edrea_tm_contact .wrapper .left {
   width: 50%;
