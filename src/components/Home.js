@@ -31,11 +31,16 @@ const Home = ({ activeWithBtn }) => {
               <br></br> 
                 <h4>Speciale I B2B & B2C Salg</h4> 
                   <br></br>
-                    <p> 
-                      Mit formål er at levere de løsninger, du har brug for, og tilbyde ekspertrådgivning til en overkommelig pris. 
-                      Jeg bygger og optimerer hjemmesider for at sikre, at du får det, du ønsker, og at du er et skridt foran dine konkurrenter. <br></br><br></br>
-                      Det kan du gøre med hurtige, responsive og visuelt tiltalende hjemmesider, der hjælper dine kunder med at bevæge sig smidigt gennem købs- eller kontaktprocessen. Sammen finder vi frem til en løsning, der passer perfekt til dig.
-                      Du fortæller mig, hvad du vil have, og jeg kommer med mine ideer. Du kan altid kontakte mig enten på tlf. eller e-mail.
+                    <p style={{
+                    color:"lightgrey",
+                    }}> 
+                      Som konsulent og webudvikler er jeg dedikeret til at hjælpe virksomheder med at vokse og trives. Med en bred vifte af redskaber og ekspertiser til rådighed, er jeg sikker på at jeg kan hjælpe de fleste firmaer til yderligere vækst. <br></br><br></br>
+                      Fra marketing & branding til webudvikling og strategi - jeg tilbyder en komplet pakke af services designet til at vækste din forretning. Om du er på udkig efter en helt ny hjemmeside, forbedre din eksisterende online tilstedeværelse, eller udvikling af målrettede marketing strategier - jeg har evner og erfaring til at hjælpe. <br></br><br></br>
+                      Alle virksomheder er forskellige, og derfor tager jeg altid god tid til at forstå netop dit firma, dine ønsker, mål og udfordringer. Med en grundig dialog og indblik, har jeg mulighed for at udarbejde løsninger som er skræddersyet til dine specifikke behov.
+                      <br></br><br></br>
+                      Med et sundt og professionelt samarbejde, kan vi tage dit firma til et nyt niveau. 
+                      Hvis det lyder interessant, så tøv ikke med at tage fat i mig. Vi kan have en helt uforpligtende snak, og se om vi er et godt match.
+                      
                     </p>
             </div>
           </div>
