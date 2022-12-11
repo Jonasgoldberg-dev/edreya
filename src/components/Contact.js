@@ -83,7 +83,7 @@ const Contact = () => {
                   <div className="list_inner">
                     <i className="icon-github-2" />
                     <span>
-                      <a href="https://github.com/Jonasgoldberg-dev">Github</a>
+                      <a href="https://github.com/Jonasgoldberg-dev" target="_blank" rel="noreferrer">Github</a>
                     </span>
                   </div>
                   
@@ -92,7 +92,7 @@ const Contact = () => {
                   <div className="list_inner">
                     <i className="icon-linkedin-1" />
                     <span>
-                      <a href="https://www.linkedin.com/in/jonas-goldberg-4a7577103/">LinkedIn</a>
+                      <a href="https://www.linkedin.com/in/jonas-goldberg-4a7577103/" target="blank" rel="noreferrer">LinkedIn</a>
                     </span>
                   </div>
                   
