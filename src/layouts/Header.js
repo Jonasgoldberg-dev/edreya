@@ -11,7 +11,7 @@ const Header = () => {
     <div className="edrea_tm_header">
       <div className="header_inner">
         <div className="logo">
-          <p>J. Goldberg Consult</p>
+        <img src="img/jglogo.png" alt="Skinbjerg Design" />
         </div>
         <div className="menu">
           <ul className="transition_link">
@@ -37,7 +37,7 @@ const Header = () => {
             </li>
             <li className={activeNav("contact")}>
               <a href="#contact" onClick={() => changeNav("contact")}>
-                Contact
+                Kontakt
               </a>
             </li>
           </ul>

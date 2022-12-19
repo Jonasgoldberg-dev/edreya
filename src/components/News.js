@@ -178,19 +178,7 @@ Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
     
           </div>
         </div>
-        <div className="global_text" style={{ textAlign: 'center' }}>
-  <p style={{
-    backgroundColor: 'rgba(243, 153, 119)',
-    borderRadius: '10px',
-    padding: '5px',
-    color: 'black',
-    marginTop: "20px",
-  }}>
-    <b>E-mail:</b> <a href="mailto:hello@jonasgoldberg">hello@jonasgoldberg.dk</a>
-    <br />
-    <b>Tlf.:</b> <a href="tel:+45 53354858"  >+45 53354858</a>
-  </p>
-</div>
+        
         
       </div>
       
