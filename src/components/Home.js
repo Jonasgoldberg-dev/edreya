@@ -54,6 +54,7 @@ const Home = ({ activeWithBtn }) => {
     borderRadius: '10px',
     padding: '5px',
     color: 'black',
+    marginTop: "20px",
   }}>
     <b>E-mail:</b>{' '}
     <span style={{ marginRight: '10px' }}>hello@jonasgoldberg.dk</span>

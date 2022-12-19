@@ -184,6 +184,7 @@ Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
     borderRadius: '10px',
     padding: '5px',
     color: 'black',
+    marginTop: "20px",
   }}>
     <b>E-mail:</b>{' '}
     <span style={{ marginRight: '10px' }}>hello@jonasgoldberg.dk</span>
