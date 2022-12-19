@@ -16,9 +16,9 @@ const MobileHeader = () => {
     <Fragment>
       <div className="edrea_tm_topbar">
         <div className="topbar_inner">
-          <div className="logo">
-            <p>J. Goldberg Consult</p>
-          </div>
+        <div className="logo">
+        <img src="img/jglogo.png" alt="Skinbjerg Design" />
+        </div>
           <div className="trigger">
             <div
               className={`hamburger hamburger--slider ${
