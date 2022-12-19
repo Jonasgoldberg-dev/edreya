@@ -186,9 +186,9 @@ Tøv ikke med at tage fat i mig, enhver indledende snak er 100% uforpligtende!
     color: 'black',
     marginTop: "20px",
   }}>
-    <b>E-mail:</b>{' '}
-    <span style={{ marginRight: '10px' }}>hello@jonasgoldberg.dk</span>
-    <b>Tlf.:</b>+45 53354858
+    <b>E-mail:</b> <a href="mailto:hello@jonasgoldberg">hello@jonasgoldberg.dk</a>
+    <br />
+    <b>Tlf.:</b> <a href="tel:+45 53354858"  >+45 53354858</a>
   </p>
 </div>
         
