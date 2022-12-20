@@ -14077,6 +14077,7 @@ Primary style
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  
 }
 
 .cd-title {
@@ -14146,6 +14147,7 @@ Primary style
   display: inline-block;
   position: relative;
   text-align: left;
+  
 }
 .cd-words-wrapper b {
   display: inline-block;
@@ -14153,6 +14155,8 @@ Primary style
   white-space: nowrap;
   left: 0;
   top: 0;
+  
+  
 }
 .cd-words-wrapper b.is-visible {
   position: relative;
@@ -15573,9 +15577,11 @@ xpush
   list-style: none;
   padding: 0;
   z-index: 1;
+  
 }
 .swiper-container-vertical > .swiper-wrapper {
   flex-direction: column;
+  
 }
 .swiper-wrapper {
   position: relative;
@@ -15585,6 +15591,7 @@ xpush
   display: flex;
   transition-property: transform;
   box-sizing: content-box;
+  
 }
 .swiper-container-android .swiper-slide,
 .swiper-wrapper {

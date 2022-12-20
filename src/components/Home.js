@@ -32,7 +32,7 @@ const Home = ({ activeWithBtn }) => {
                 <h4>Speciale I B2B & B2C Salg</h4> 
                   <br></br>
                     <p style={{
-                    color:"lightgrey",
+                    color:"black",
                     }}> 
                       Som konsulent og webudvikler er jeg dedikeret til at hjælpe virksomheder med at vokse og trives. Med en bred vifte af redskaber og ekspertiser til rådighed, er jeg sikker på at jeg kan hjælpe de fleste firmaer til yderligere vækst. <br></br><br></br>
                       Fra marketing & branding til webudvikling og strategi - jeg tilbyder en komplet pakke af services designet til at vækste din forretning. Om du er på udkig efter en helt ny hjemmeside, forbedre din eksisterende online tilstedeværelse, eller udvikling af målrettede marketing strategier - jeg har evner og erfaring til at hjælpe. <br></br><br></br>
