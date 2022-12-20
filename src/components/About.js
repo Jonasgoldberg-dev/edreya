@@ -7,7 +7,7 @@ const aboutData = {
   lastName: "Goldberg",
   bithday: "01.12.1992",
   address: "København",
-  phn: "++45 5335 4858",
+  phn: "+45 5335 4858",
   email: "hello@jonasgoldberg.dk",
   serviceLists: [
     "Webudvikling",

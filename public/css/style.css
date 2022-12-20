@@ -788,6 +788,7 @@ h6 {
   font-size: 22px;
   text-transform: uppercase;
   margin-bottom: 7px;
+  
 }
 .edrea_tm_modalbox .about_popup_details .left .short .job {
   font-weight: 400;
@@ -1097,6 +1098,7 @@ h6 {
   position: relative;
   padding-left: 20px;
   padding-bottom: 45px;
+  border-top: solid 0.3px;
 }
 .edrea_tm_modalbox .about_popup_details .timeline .list ul li:last-child {
   padding-bottom: 0px;
@@ -2311,6 +2313,7 @@ h6 {
   .edrea_tm_modalbox .about_popup_details .left .list ul li {
     padding-bottom: 5px;
     margin-bottom: 5px;
+    
   }
   .edrea_tm_button a {
     padding: 8px 40px;
@@ -2318,6 +2321,7 @@ h6 {
   .edrea_tm_modalbox .about_popup_details .left .list ul li span {
     padding-left: 32px;
     font-size: 14px;
+    color: white;
   }
   .edrea_tm_modalbox .about_popup_details .left .list ul li i {
     font-size: 15px;
