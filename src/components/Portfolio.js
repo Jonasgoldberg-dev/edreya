@@ -15,6 +15,13 @@ const Portfolio = () => {
               <h3>
                 Udvalgt <span className="coloring">Arbejde</span>
               </h3>
+              <p style={{
+                paddingBottom: "20px",
+                paddingTop: "20px"
+              }}>Alle virksomheder er forskellige, og derfor tager jeg altid god tid til at forstå netop dit firma, dine ønsker, mål og udfordringer. Med en grundig dialog og indblik, har jeg mulighed for at udarbejde løsninger som er skræddersyet til dine specifikke behov.
+                      <br></br><br></br>
+                      Med et sundt og professionelt samarbejde, kan vi tage dit firma til et nyt niveau. 
+                      Hvis det lyder interessant, så tøv ikke med at tage fat i mig. Vi kan have en helt uforpligtende snak, og se om vi er et godt match.</p>
             </div>
             <div className="portfolio_list gallery_zoom">
               <Swiper {...portfolioSlider} className="swiper-container">
@@ -102,6 +109,7 @@ const Portfolio = () => {
               </Swiper>
             </div>
           </div>
+          
         </div>
         
       </div>
