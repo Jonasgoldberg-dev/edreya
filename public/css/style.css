@@ -796,7 +796,7 @@ h6 {
   font-size: 15px;
 }
 .edrea_tm_modalbox .about_popup_details .left .short .job b {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-weight: 400;
 }
 .edrea_tm_modalbox .about_popup_details .left .list {
